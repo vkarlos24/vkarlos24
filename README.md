@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! Soy Carlos Casaña y este es un breve resumen de mi perfil.
+### Junior Full Stack Web Developer
 
-<!--
-**vkarlos24/vkarlos24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web enfocado en la creación de sistemas web funcionales, sistemas de gestión interna y dashboards interactivos. Me apasiona estructurar código limpio y soluciones escalables.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías & Herramientas
+
+- **Frontend:** Angular, TypeScript, JavaScript, React.js, Tailwind CSS, HTML5, CSS3
+- **Backend:** PHP, Laravel, Node.js, Python, Django
+- **Bases de Datos:** MySQL, PostgreSQL, Oracle Database
+- **Control de Versiones & Herramientas:** Git, GitHub, REST APIs
+
+---
+
+### 📂 Proyectos Destacados
+
+- 📑 **Sistema de Gestión de Memos Internos** | *Laravel + Angular*
+- 🎫 **Sistema de Tickets Helpdesk** | *PHP + Tailwind CSS*
+
+---
+
+### 📬 Contacto & Enlaces
+
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/carlos-casa%C3%B1a-8a2152355]
+- 🌐 **Fiverr:** [Añade tu link de Fiverr aquí]
+- ✉️ **Email:** [Tu correo electrónico]

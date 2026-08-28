@@ -16,7 +16,6 @@ Desarrollador web enfocado en la creación de sistemas web funcionales, sistemas
 
 ### 📂 Proyectos Destacados
 
-- 📑 **Sistema de Gestión de Memos Internos** | *Laravel + Angular*
 - 🎫 **Sistema de Tickets Helpdesk** | *PHP + Tailwind CSS*
 
 ---

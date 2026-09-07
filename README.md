@@ -17,7 +17,6 @@ Desarrollador web enfocado en la creación de sistemas web funcionales, sistemas
 ### 📂 Proyectos Destacados
 
 - 🎫 **Sistema de Tickets Helpdesk** | *PHP + Tailwind CSS*
-- 
 ---
 
 ### 📬 Contacto & Enlaces

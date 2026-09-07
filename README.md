@@ -1,7 +1,7 @@
 # ¡Hola! Soy Carlos Casaña y este es un breve resumen de mi perfil.
 ### Junior Full Stack Web Developer
 
-Desarrollador web enfocado en la creación de sistemas web funcionales, sistemas de gestión interna y dashboards interactivos. Me apasiona estructurar código limpio y soluciones escalables.
+Desarrollador web enfocado en la creación de sistemas web funcionales, sistemas de gestión interna y dashboards interactivos.
 
 ---
 
@@ -17,11 +17,11 @@ Desarrollador web enfocado en la creación de sistemas web funcionales, sistemas
 ### 📂 Proyectos Destacados
 
 - 🎫 **Sistema de Tickets Helpdesk** | *PHP + Tailwind CSS*
-
+- 
 ---
 
 ### 📬 Contacto & Enlaces
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/carlos-casa%C3%B1a-8a2152355]
-- 🌐 **Fiverr:** [Añade tu link de Fiverr aquí]
-- ✉️ **Email:** [Tu correo electrónico]
+- 🌐 **Fiverr:** [https://es.pro.fiverr.com/users/vkarlos44]
+
